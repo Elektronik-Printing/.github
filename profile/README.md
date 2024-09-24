@@ -1,6 +1,6 @@
 ## Elektronik Printing GmbH
 
-Wir sitzen in Mils und sind die Austatter für Bestatter. 
+Wir sitzen in Mils und sind die Ausstatter für Bestatter. 
 
 <!--
 
